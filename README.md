@@ -9,7 +9,8 @@
 Building Laravel app connecting to Vue.js frontend and Monolithic Deployment (Setup domain name & TLS/SSL), and then I use GitHub Action for ZTD and then I have to make Database Scaling (by using AWS RDS) and I have to Cache Scaling (by using AWS Elastic-Cache Deployment Redis) and do Web Scaling (Vertical & Horizontal) and deploying it by Docker. 
 
 -----------------------------------------------------------------------------------------------------------------------------
-## 1. Deploy to AWS: <br>
+## 1. Deploy to AWS: 
+<br>
     I.	Monolithic Deployment – manually <br>
    II.	DevOps – Automation, IaC <br>
    III.	DevOps – CI/CD <br>
