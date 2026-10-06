@@ -11,7 +11,7 @@ Building Laravel app connecting to Vue.js frontend and Monolithic Deployment (Se
 -----------------------------------------------------------------------------------------------------------------------------
 ## 1. Deploy to AWS: 
 <br>
-    I.	Monolithic Deployment – manually <br>
+   #### I.	Monolithic Deployment – manually <br>
    II.	DevOps – Automation, IaC <br>
    III.	DevOps – CI/CD <br>
    IV.	Database Scaling <br>
