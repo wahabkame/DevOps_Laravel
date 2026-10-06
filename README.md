@@ -10,13 +10,13 @@ Building Laravel app connecting to Vue.js frontend and Monolithic Deployment (Se
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## 1. Deploy to AWS:
-   ### I.	Monolithic Deployment – manually
-   ### II.	DevOps – Automation, IaC
-   ### III.	DevOps – CI/CD
-   ### IV.	Database Scaling
-   ### V.	Cache Scaling
-   ### VI.	Workers Scaling 
-   ### VII.	Web Scaling
+    I.	Monolithic Deployment – manually
+   II.	DevOps – Automation, IaC
+   III.	DevOps – CI/CD
+   IV.	Database Scaling
+    V.	Cache Scaling
+    VI.	Workers Scaling 
+   VII.	Web Scaling
 
 
 
@@ -80,12 +80,12 @@ Building Laravel app connecting to Vue.js frontend and Monolithic Deployment (Se
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## 2. Deploy to Docker:
-   ### I.	Docker Kit for Laravel Dev / Prod env 
-   ### II.	Docker Kit for Laravel Amazon ECR integration
-   ### III.	Docker Swarm for Laravel
-   ### IV.	Application starter kit simplifies deployments 
-   ### V.	Docker Nginx Load Balancing Deep Dive
-   ### VI.	Zero Down Time Git Deployments nginx-python-DevOps
+    I.	Docker Kit for Laravel Dev / Prod env 
+    II.	Docker Kit for Laravel Amazon ECR integration
+    III.	Docker Swarm for Laravel
+    IV.	Application starter kit simplifies deployments 
+    V.	Docker Nginx Load Balancing Deep Dive
+    VI.	Zero Down Time Git Deployments nginx-python-DevOps
 
 
 
