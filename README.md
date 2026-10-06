@@ -80,12 +80,13 @@ Building Laravel app connecting to Vue.js frontend and Monolithic Deployment (Se
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## 2. Deploy to Docker:
-    I.	Docker Kit for Laravel Dev / Prod env 
-    II.	Docker Kit for Laravel Amazon ECR integration
-    III.	Docker Swarm for Laravel
-    IV.	Application starter kit simplifies deployments 
-    V.	Docker Nginx Load Balancing Deep Dive
-    VI.	Zero Down Time Git Deployments nginx-python-DevOps
+<br>
+    I.	Docker Kit for Laravel Dev / Prod env <br>
+    II.	Docker Kit for Laravel Amazon ECR integration <br>
+    III.	Docker Swarm for Laravel <br>
+    IV.	Application starter kit simplifies deployments <br>
+    V.	Docker Nginx Load Balancing Deep Dive <br>
+    VI.	Zero Down Time Git Deployments nginx-python-DevOps <br>
 
 
 
